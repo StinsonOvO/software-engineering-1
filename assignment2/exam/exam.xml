@@ -1,0 +1,38 @@
+<test>
+<question id='1'>
+<content>Which is the largest country in the world?</content>
+<type>MCQ</type>
+<allanswers>USA;India;China;Russia</allanswers>
+<correct>Russia</correct>
+</question>
+<question id='2'>
+<content>Muscat is the capital of which country?</content>
+<type>MCQ</type>
+<allanswers>Yemen;Oman;Bahrain;Jordan</allanswers>
+<correct>Oman</correct>
+</question>
+<question id='3'>
+<content>All wild pandas are found in China.</content>
+<type>TF</type>
+<allanswers></allanswers>
+<correct>T</correct>
+</question>
+<question id='4'>
+<content>Lightning never strikes in the same place twice.</content>
+<type>TF</type>
+<allanswers></allanswers>
+<correct>F</correct>
+</question>
+<question id='5'>
+<content>The capital of Seychelles is ___.</content>
+<type>FB</type>
+<allanswers></allanswers>
+<correct>Victoria</correct>
+</question>
+<question id='6'>
+<content>Sydney is located in the country of ___.</content>
+<type>FB</type>
+<allanswers></allanswers>
+<correct>Australia</correct>
+</question>
+</test>
